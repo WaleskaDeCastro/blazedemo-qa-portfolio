@@ -1,7 +1,7 @@
 # Persona - BlazeDemo
 
 ## 📌 Objetivo
-Esta persona foi criada para representar um usuário típico do site BlazeDemo, com objetivo de aopiar a análise de testes funcionais, fluxos de navegação e validações de do sistema. 
+Esta persona foi criada para representar um usuário típico do site BlazeDemo, com objetivo de apoiar a análise de testes funcionais, fluxos de navegação e validações do sistema. 
 
 ## 👤 Contexto da Persona
 A persona representa um usuário adulto, entre 36 e 40 anos, que utiliza o site para comprar passagens aéreas de forma prática, seja por necessidade profissional ou lazer. 
