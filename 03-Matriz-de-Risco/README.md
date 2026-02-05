@@ -1,4 +1,4 @@
-# 📊 Matriz de Riscos – Projeto de Testes QA
+# 📊 Matriz de Riscos – BlazeDemo
 
 Este documento apresenta a **Matriz de Riscos** elaborada durante o planejamento de testes de um sistema de e-commerce fictício, com foco em **qualidade, confiabilidade e experiência do usuário**.
 
