@@ -1,4 +1,4 @@
-# Gráfico de Pareto – BlazeDemo
+# 📊 Gráfico de Pareto – BlazeDemo
 
 Este gráfico mostra os problemas mais frequentes identificados durante testes manuais no site BlazeDemo.
 
