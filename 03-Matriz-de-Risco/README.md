@@ -23,5 +23,5 @@ A matriz foi utilizada como apoio para:
 - Identificação de pontos de atenção em funcionalidades sensíveis, como pagamento e integração
 
 ## 📌 Observação
-Este material faz parte de um **projeto de estudo e portfólio QA Júnior**, com foco em testes manuais e boas práticas utilizadas no mercado.
+Este material faz parte de um **projeto de estudo e portfólio QA**, com foco em testes manuais e boas práticas utilizadas no mercado.
 
