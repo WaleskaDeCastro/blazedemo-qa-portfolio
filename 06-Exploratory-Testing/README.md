@@ -17,6 +17,9 @@ Avaliar o fluxo de compra, validações e experiência do usuário.
 **Login**  
 ![Login](evidencias/login.png)
 
+**Login error**  
+![Login](evidencias/login-error.png)
+
 **Tela inicial / Travel the World**  
 ![Travel the World](evidencias/travel-the-world.png)
 
