@@ -27,4 +27,4 @@ Avaliar o fluxo de compra, validações e experiência do usuário.
 ![Formulário inválido](evidencias/invalid-data.png)
 
 **Confirmação de compra**  
-![Compra concluída](evidencias/purchase-success.png)
+![Compra concluída](https://github.com/WaleskaDeCastro/blazedemo-qa-portfolio/blob/main/06-Exploratory-Testing/evidencias/purchase-sucess.png)
