@@ -2,7 +2,7 @@
 
 Este projeto apresenta a execução de **testes exploratórios** no site BlazeDemo 
 
-## Objetivo
+## 📌 Objetivo
 Avaliar o fluxo de compra, validações e experiência do usuário.
 
 ## Tipo de teste
