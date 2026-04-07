@@ -1,4 +1,4 @@
-Title: Input fields accept any type of data without validation
+Title: Ausência de validação nos campos do formulário
 
 Steps to reproduce:
 1. Acessar o fluxo de compra

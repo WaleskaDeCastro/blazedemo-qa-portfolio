@@ -1,4 +1,4 @@
-Title: Purchase completed successfully with invalid input data
+Title: Sistema permite finalizar compra com dados inválidos 
 
 Steps to reproduce:
 1. Acessar o site https://blazedemo.com
