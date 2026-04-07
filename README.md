@@ -39,7 +39,7 @@ Explore as pastas para entender cada etapa do processo:
 - **03-Matriz-de-Risco** – Priorização de testes baseada em impacto  
 - **04-Pareto** – Identificação dos pontos mais críticos  
 - **05-Pairwise** – Otimização de combinações de teste  
-- **06-Exploratory-Testing** – Execução de testes e evidências  
+- **06-Exploratory-Testing** – Execução de testes, evidências e documentação
 
 ---
 
